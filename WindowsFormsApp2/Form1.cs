@@ -1,6 +1,6 @@
-﻿using System;
+﻿using System.Diagnostics;
 using System.Windows.Forms;
-using System.Diagnostics;
+using System;
 
 namespace WindowsFormsApp
 {
@@ -30,6 +30,9 @@ namespace WindowsFormsApp
                 label_Countdown.Text = timeRemaining.ToString(@"mm\:ss");
                 // Enable the timer
                 countdownTimer.Enabled = true;
+                // Save the last minutes value to application settings
+                WindowsFormsApp2.Properties.Settings.Default.LastMinutesValue = minutes;
+                WindowsFormsApp2.Properties.Settings.Default.Save();
                 // Append diagnostic message to RichTextBox
                 AppendToOutput("Timer enabled. Remaining time: " + timeRemaining);
             }
@@ -49,11 +52,21 @@ namespace WindowsFormsApp
             // Append diagnostic message to RichTextBox
             AppendToOutput("Tick event. Remaining time: " + timeRemaining);
 
-            // Check if there are 5 minutes remaining
-            if (timeRemaining == TimeSpan.FromMinutes(5))
+            if (timeRemaining == TimeSpan.FromMinutes(5) && ShowWarning.Checked)
             {
+                // Ensure the form is visible and on top
+                if (this.WindowState == FormWindowState.Minimized)
+                {
+                    this.WindowState = FormWindowState.Normal; // Restore the window
+                }
+                this.BringToFront(); // Bring the form to the front
+                this.TopMost = true; // Make the form topmost momentarily
+
                 // Display a warning message to the user
                 DialogResult result = MessageBox.Show("System will hibernate in 5 minutes. Do you want to cancel hibernation?", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+                this.TopMost = false; // Revert the topmost status after the dialog is closed
+
                 if (result == DialogResult.Yes)
                 {
                     // Cancel hibernation
@@ -75,12 +88,15 @@ namespace WindowsFormsApp
             }
         }
 
+
+
+
         private void btnCancel_Click(object sender, EventArgs e)
         {
             // Stop the timer
             countdownTimer.Enabled = false;
             // Optionally notify the user
-            MessageBox.Show("Hibernation canceled!");
+            MessageBox.Show(this, "Hibernation canceled!", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
             // Append diagnostic message to RichTextBox
             AppendToOutput("Hibernation canceled.");
 
@@ -109,5 +125,12 @@ namespace WindowsFormsApp
             // Start the hibernation process
             Process.Start("shutdown", "/h");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Load the last minutes value from application settings and set it in the textbox
+            textBox_Minutes.Text = WindowsFormsApp2.Properties.Settings.Default.LastMinutesValue.ToString();
+        }
+
     }
 }
