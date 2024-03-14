@@ -49,6 +49,18 @@ namespace WindowsFormsApp
             // Append diagnostic message to RichTextBox
             AppendToOutput("Tick event. Remaining time: " + timeRemaining);
 
+            // Check if there are 5 minutes remaining
+            if (timeRemaining == TimeSpan.FromMinutes(5))
+            {
+                // Display a warning message to the user
+                DialogResult result = MessageBox.Show("System will hibernate in 5 minutes. Do you want to cancel hibernation?", "Warning", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                if (result == DialogResult.Yes)
+                {
+                    // Cancel hibernation
+                    btnCancel_Click(sender, e);
+                }
+            }
+
             // Check if the countdown has finished
             if (timeRemaining <= TimeSpan.Zero)
             {
@@ -59,7 +71,30 @@ namespace WindowsFormsApp
                 // Append diagnostic message to RichTextBox
                 AppendToOutput("Countdown finished.");
                 // Hibernate the computer
-                Process.Start("shutdown", "/h");
+                HibernateComputer();
+            }
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            // Stop the timer
+            countdownTimer.Enabled = false;
+            // Optionally notify the user
+            MessageBox.Show("Hibernation canceled!");
+            // Append diagnostic message to RichTextBox
+            AppendToOutput("Hibernation canceled.");
+
+            // Reset the timer if cancellation occurs within the 5-minute window
+            if (timeRemaining <= TimeSpan.FromMinutes(5) && timeRemaining > TimeSpan.Zero)
+            {
+                int minutes;
+                if (int.TryParse(textBox_Minutes.Text, out minutes))
+                {
+                    // Initialize the remaining time span
+                    timeRemaining = TimeSpan.FromMinutes(minutes);
+                    // Update the label
+                    label_Countdown.Text = timeRemaining.ToString(@"mm\:ss");
+                }
             }
         }
 
@@ -67,6 +102,12 @@ namespace WindowsFormsApp
         {
             // Append the message to the RichTextBox
             richTextBox_Output.AppendText(message + Environment.NewLine);
+        }
+
+        private void HibernateComputer()
+        {
+            // Start the hibernation process
+            Process.Start("shutdown", "/h");
         }
     }
 }

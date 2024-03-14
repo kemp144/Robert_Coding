@@ -34,6 +34,9 @@
             this.label_Countdown = new System.Windows.Forms.Label();
             this.richTextBox_Output = new System.Windows.Forms.RichTextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -65,34 +68,65 @@
             // label_Countdown
             // 
             this.label_Countdown.AutoSize = true;
-            this.label_Countdown.Location = new System.Drawing.Point(526, 73);
+            this.label_Countdown.Location = new System.Drawing.Point(624, 66);
             this.label_Countdown.Name = "label_Countdown";
-            this.label_Countdown.Size = new System.Drawing.Size(115, 16);
+            this.label_Countdown.Size = new System.Drawing.Size(0, 16);
             this.label_Countdown.TabIndex = 3;
-            this.label_Countdown.Text = "Countdown_Timer";
             // 
             // richTextBox_Output
             // 
-            this.richTextBox_Output.Location = new System.Drawing.Point(38, 164);
+            this.richTextBox_Output.Location = new System.Drawing.Point(38, 214);
             this.richTextBox_Output.Name = "richTextBox_Output";
-            this.richTextBox_Output.Size = new System.Drawing.Size(701, 261);
+            this.richTextBox_Output.Size = new System.Drawing.Size(701, 211);
             this.richTextBox_Output.TabIndex = 4;
             this.richTextBox_Output.Text = "";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(513, 38);
+            this.label2.Location = new System.Drawing.Point(488, 67);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(128, 16);
             this.label2.TabIndex = 5;
             this.label2.Text = "PC Will Hibernate in:";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(347, 95);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 6;
+            this.button2.Text = "Cancel";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.btnCancel_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(477, 428);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(311, 16);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Copyright (c) 2024 Robert Engel. All rights reserved.";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(277, 9);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(209, 21);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Easy Auto PC Shutdown";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.richTextBox_Output);
             this.Controls.Add(this.label_Countdown);
@@ -114,6 +148,9 @@
         private System.Windows.Forms.Label label_Countdown;
         private System.Windows.Forms.RichTextBox richTextBox_Output;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
