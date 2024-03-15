@@ -1,0 +1,10 @@
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\bin\Debug\WindowsFormsApp2.exe
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCShutdown.csproj.AssemblyReference.cache
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCShutdown.Form1.resources
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCShutdown.csproj.GenerateResource.cache
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCShutdown.csproj.CoreCompileInputs.cache
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\WindowsFormsApp2.exe
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\WindowsFormsApp2.pdb
