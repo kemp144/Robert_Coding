@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -22,16 +22,12 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EasyAutoPCShutdown||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,8 +53,7 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-15T15:17:06.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:17:06.791Z"
             },
             {
               "$type": "Document",
@@ -70,8 +65,7 @@
               "RelativeToolTip": "Properties\\Settings.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T15:13:45.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:13:45.74Z"
             },
             {
               "$type": "Document",
@@ -83,8 +77,7 @@
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T15:13:41.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:13:41.383Z"
             },
             {
               "$type": "Document",
@@ -96,8 +89,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T15:13:36.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:13:36.599Z"
             },
             {
               "$type": "Document",
@@ -108,8 +100,7 @@
               "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\EasyAutoPCShutdown.csproj",
               "RelativeToolTip": "EasyAutoPCShutdown.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-15T15:11:35.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T15:11:35.309Z"
             },
             {
               "$type": "Document",
@@ -133,8 +124,7 @@
               "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T08:14:37.939Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-14T08:14:37.939Z"
             }
           ]
         }
