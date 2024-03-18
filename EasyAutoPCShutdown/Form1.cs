@@ -187,5 +187,9 @@ namespace EasyAutoPCShutdown
             EasyAutoPCShutdown.Properties.Settings.Default.Save();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
