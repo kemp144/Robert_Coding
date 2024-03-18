@@ -3,31 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EasyAutoPCPowerSwitch||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EasyAutoPCShutdown||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069E358D-21F2-43B9-9404-0E13B6B59EE8}|EasyAutoPCShutdown.csproj|c:\\users\\robert.engel\\repositories\\robert_coding\\easyautopcshutdown\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,27 +52,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EasyAutoPCPowerSwitch",
+              "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\EasyAutoPCPowerSwitch.csproj",
+              "RelativeDocumentMoniker": "EasyAutoPCPowerSwitch.csproj",
+              "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\EasyAutoPCPowerSwitch.csproj",
+              "RelativeToolTip": "EasyAutoPCPowerSwitch.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T12:52:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:26:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-15T15:17:06.791Z"
+              "WhenOpened": "2024-03-15T15:17:06.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Properties\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
               "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Properties\\Settings.Designer.cs",
               "RelativeToolTip": "Properties\\Settings.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA/AAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwCkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T15:13:45.74Z"
+              "WhenOpened": "2024-03-15T15:13:45.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,13 +109,13 @@
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T15:13:41.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -93,31 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EasyAutoPCShutdown",
-              "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\EasyAutoPCShutdown.csproj",
-              "RelativeDocumentMoniker": "EasyAutoPCShutdown.csproj",
-              "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\EasyAutoPCShutdown.csproj",
-              "RelativeToolTip": "EasyAutoPCShutdown.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-15T15:11:35.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAIwL8AAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswK8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T14:59:03.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\robert.engel\\Repositories\\Robert_Coding\\EasyAutoPCShutdown\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

@@ -1,0 +1,10 @@
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\bin\Debug\EasyAutoPCPowerSwitch.exe.config
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\bin\Debug\EasyAutoPCPowerSwitch.exe
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\bin\Debug\EasyAutoPCPowerSwitch.pdb
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.csproj.AssemblyReference.cache
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.Properties.Resources.resources
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.csproj.GenerateResource.cache
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.csproj.CoreCompileInputs.cache
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.exe
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.pdb
+C:\Users\robert.engel\Repositories\Robert_Coding\EasyAutoPCShutdown\obj\Debug\EasyAutoPCPowerSwitch.Form1.resources

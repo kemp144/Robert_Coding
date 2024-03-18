@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System;
 
-namespace EasyAutoPCShutdown
+namespace EasyAutoPCPowerSwitch
 {
     public partial class Form1 : Form
     {
@@ -19,7 +19,7 @@ namespace EasyAutoPCShutdown
             // Hook up the Tick event
             countdownTimer.Tick += new EventHandler(countdownTimer_Tick);
 
-            selectedAction = EasyAutoPCShutdown.Properties.Settings.Default.LastSelectedAction;
+            selectedAction = EasyAutoPCPowerSwitch.Properties.Settings.Default.LastSelectedAction;
 
             // If no action has been selected, default to 's' (Shut Down)
             if (selectedAction != 's' && selectedAction != 'h')
@@ -40,8 +40,8 @@ namespace EasyAutoPCShutdown
                 // Enable the timer
                 countdownTimer.Enabled = true;
                 // Save the last minutes value to application settings
-                EasyAutoPCShutdown.Properties.Settings.Default.LastMinutesValue = minutes;
-                EasyAutoPCShutdown.Properties.Settings.Default.Save();
+                EasyAutoPCPowerSwitch.Properties.Settings.Default.LastMinutesValue = minutes;
+                EasyAutoPCPowerSwitch.Properties.Settings.Default.Save();
             }
             else
             {
@@ -121,7 +121,7 @@ namespace EasyAutoPCShutdown
         private void Form1_Load(object sender, EventArgs e)
         {
             // Load the last minutes value from application settings and set it in the textbox
-            textBox_Minutes.Text =  EasyAutoPCShutdown.Properties.Settings.Default.LastMinutesValue.ToString();
+            textBox_Minutes.Text = EasyAutoPCPowerSwitch.Properties.Settings.Default.LastMinutesValue.ToString();
 
             // Load the last selected action from application settings and set it in the ComboBox
             switch (selectedAction)
@@ -183,8 +183,8 @@ namespace EasyAutoPCShutdown
         {
             base.OnFormClosing(e);
             // Save the last selected action to application settings
-            EasyAutoPCShutdown.Properties.Settings.Default.LastSelectedAction = selectedAction;
-            EasyAutoPCShutdown.Properties.Settings.Default.Save();
+            EasyAutoPCPowerSwitch.Properties.Settings.Default.LastSelectedAction = selectedAction;
+            EasyAutoPCPowerSwitch.Properties.Settings.Default.Save();
         }
 
         private void label1_Click(object sender, EventArgs e)
